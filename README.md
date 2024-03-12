@@ -8,3 +8,6 @@ Irányítás:
 Space gomb - ugrás
 
 (A játék game over képernyője néha bugos, ez esetben csak újra el kell indítani a játékot, és nem lesz hiba a lefutásban.)
+
+![image](https://github.com/ang3lak0s/scratch_hazi/assets/145838947/ef29f23b-909a-44be-b9d5-ac7e1c1af454)
+
